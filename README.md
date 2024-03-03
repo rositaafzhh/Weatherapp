@@ -25,7 +25,7 @@ Weather app using JS,CSS,HTML HAVE A SUPER SMOOTH EXPREIENCE AND DELIGHTFUL VISU
 
 ## Authors
 
-- [@anusthan12](https://github.com/anusthan12)
+- [@rositaafzhh](https://github.com/rositaafzhh)
 
 
 
@@ -57,8 +57,8 @@ Weather app using JS,CSS,HTML HAVE A SUPER SMOOTH EXPREIENCE AND DELIGHTFUL VISU
 I'm a Developer...
 
 github:-
-- [@anusthan12](https://github.com/anusthan12)
+- [@rositaafzhh](https://github.com/rositaafzhh)
 
 instagram
--  [@anusthan_12](https://www.instagram.com/anusthan_12/)
+-  [@__capricorngirl05](https://www.instagram.com/__capricorngirl05/)
 
